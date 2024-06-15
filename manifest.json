@@ -1,0 +1,9 @@
+{
+  "name": "podyplomowe",
+  "short_name": "podyplomowe",
+  "lang": "pl",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}
