@@ -1,0 +1,10 @@
+.fullscreen {
+  display: flex;
+  width: 100vh;
+  height: 100vw;
+}
+
+.container {
+  margin: 0;
+  text-align: center;
+}
